@@ -13,7 +13,7 @@ Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhan
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/geovane-melo-da-silva-105040147/)
-* [Medium](https://www.medium.com)
+* [Medium](https://medium.com/geovanemelo81)
 
 
 ## Projetos:
