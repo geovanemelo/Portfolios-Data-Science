@@ -9,7 +9,7 @@
 
 Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhanguera de Nitéroi. Nesse repositório estarei publicando meus projetos de Ciência de Dados, utilizando majoritariamente a linguagem Python. Atualmente, me encontro no periodo de aperfeiçoamento, conhecendo as principais bibliotecas e tecnicas utilizadas no processo de tratamento, análise e visualização dos dados.
 
-**Experiência em:** Python, Data Science, HTML/CSS, JavaScript, Java, SQL
+**Conhecimento em:** Python, Data Science, HTML/CSS, JavaScript, Java, SQL
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/geovane-melo-da-silva-105040147/)
