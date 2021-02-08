@@ -17,8 +17,9 @@ Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhan
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-* **Análise de imóveis do AirBnB em Buenos Aires:**
+Meus principais projetos publicados:
+
+* **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/3rD9135
 
 
 ---
