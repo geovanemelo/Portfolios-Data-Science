@@ -7,9 +7,9 @@
 # Geovane Melo
 <sub>*Cientista De Dados* graduando em Ciência Da Computação</sub>
 
-Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhanguera de Nitéroi. Nesse repositório estarei publicando meus projetos de Ciência de Dados, utilizando majoritariamente a linguagem Python. Atualmente, me encontro no periodo de aperfeiçoamento, conhecendo as principais bibliotecas e tecnicas utilizadas no processo de tratamento, análise e visualização dos dados.
+Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhanguera de Nitéroi. Nesse repositório estarei publicando meus projetos de Ciência de Dados, utilizando majoritariamente a linguagem Python. Atualmente, me encontro no periodo de aperfeiçoamento, conhecendo as principais bibliotecas e técnicas utilizadas no processo de tratamento, análise e visualização dos dados.
 
-**Conhecimento em:** Python, Data Science, HTML/CSS, JavaScript, Java, SQL
+**Conhecimento em:** Python, Data Science,Django Framework, HTML/CSS, Java, SQL.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/geovane-melo-da-silva-105040147/)
