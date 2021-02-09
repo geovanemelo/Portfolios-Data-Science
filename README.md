@@ -19,8 +19,7 @@ Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhan
 ## Projetos:
 Meus principais projetos publicados:
 
-* **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/2NcwSrq
-
+* **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/3aLqLTp
 
 ---
 
