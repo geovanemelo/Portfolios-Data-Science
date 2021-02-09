@@ -21,7 +21,7 @@ Meus principais projetos publicados:
 
 * **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/2NcwSrq
 
-<sub>Projetos também disponíveis no [Medium](https://medium.com/geovanemelo81)</sub>
+
 ---
 
 
