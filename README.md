@@ -19,9 +19,12 @@ Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhan
 ## Projetos:
 Meus principais projetos publicados:
 
+* **Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3qWgauI
+
 * **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/2QgTLvC
 
-* **Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3qWgauI
+
+*projetos também publicados no [Medium](https://medium.com/geovanemelo81)*
 
 ---
 
