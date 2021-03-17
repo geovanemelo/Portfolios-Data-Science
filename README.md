@@ -20,7 +20,8 @@ Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhan
 Meus principais projetos publicados:
 
 * **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/3aLqLTp
-* ** Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3lyhHGs
+
+* **Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3lyhHGs
 
 ---
 
