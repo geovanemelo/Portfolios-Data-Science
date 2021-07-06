@@ -19,6 +19,8 @@ Aluno do sétimo periodo do curso de Ciência Da Computação na faculdade Anhan
 ## Projetos:
 Meus principais projetos publicados:
 
+* **A Covid-19 nas 20 maiores economias do mundo:** https://bit.ly/3hmSjTE
+
 * **Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3qWgauI
 
 * **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/2QgTLvC
