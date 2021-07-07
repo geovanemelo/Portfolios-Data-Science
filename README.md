@@ -21,9 +21,9 @@ Meus principais projetos publicados:
 
 * **A Covid-19 nas 20 maiores economias do mundo:** https://bit.ly/36gXSwl
 
-* **Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3qWgauI
+* **Análise de violência no estado do Rio de Janeiro em 2019:** https://bit.ly/3xqgGVN
 
-* **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/2QgTLvC
+* **Análise de imóveis do AirBnB em Buenos Aires:** https://bit.ly/2UylSby
 
 
 *projetos também publicados no [Medium](https://medium.com/geovanemelo81)*
